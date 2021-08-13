@@ -1,0 +1,20 @@
+p::first-letter{
+    color: cornflowerblue; font-size: 45px;
+}
+
+a:link {
+    color: darkgreen;
+}
+
+a:visited {
+    color: maroon;
+
+}
+
+a:hover{
+    background-color: yellow;
+}
+
+a:active {
+    color: blue;
+}
